@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E3A456FB-4792-DEFD-3183-24000FDA14C3}") = "Martian", "Assembly-CSharp-firstpass.csproj", "{360AB555-362D-9485-EE30-D2872564931A}"
+EndProject
+Project("{E3A456FB-4792-DEFD-3183-24000FDA14C3}") = "Martian", "Assembly-CSharp.csproj", "{F7D203BF-B1BA-266F-FA77-930A3670C521}"
+EndProject
+Project("{E3A456FB-4792-DEFD-3183-24000FDA14C3}") = "Martian", "Assembly-CSharp-Editor.csproj", "{F28819DD-FCBF-7ACE-3C3B-41EBBAD0E484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360AB555-362D-9485-EE30-D2872564931A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360AB555-362D-9485-EE30-D2872564931A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360AB555-362D-9485-EE30-D2872564931A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360AB555-362D-9485-EE30-D2872564931A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D203BF-B1BA-266F-FA77-930A3670C521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D203BF-B1BA-266F-FA77-930A3670C521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D203BF-B1BA-266F-FA77-930A3670C521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D203BF-B1BA-266F-FA77-930A3670C521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28819DD-FCBF-7ACE-3C3B-41EBBAD0E484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28819DD-FCBF-7ACE-3C3B-41EBBAD0E484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28819DD-FCBF-7ACE-3C3B-41EBBAD0E484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28819DD-FCBF-7ACE-3C3B-41EBBAD0E484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
